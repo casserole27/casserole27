@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @casserole27
+<h1>Hi, I’m Cassie ⭐</h1>
+
+![](https://github.com/casserole27/casserole27/blob/main/casseroleCodes-github.png)
+
 - 👀 I’m interested in learning programming, art, and effective living.
 - 🌱 I’m currently enrolled in Scrimba's Frontend Development Bootcamp.
-- 💞️ I’m looking to collaborate on learning and applying front-end engineering and software development.
 - 📫 How to reach me: casserolecodes@gmail.com | LinkedIn: https://www.linkedin.com/in/clewisdev
 
 <!---
