@@ -1,6 +1,6 @@
 <h1>Hello World! I’m Cassie ⭐</h1>
 
-![](https://github.com/casserole27/casserole27/blob/main/casseroleCodes-github.png)
+![](https://github.com/casserole27/casserole27/blob/main/casseroleCodes-github-01.png)
 
 - 👀 I’m interested in learning programming, art, and effective living.
 - 🌱 I’m currently enrolled in Scrimba's Frontend Development Bootcamp.
