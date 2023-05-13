@@ -1,10 +1,18 @@
 <h1>Hello World! I’m Cassie ⭐</h1>
 
-![](https://github.com/casserole27/casserole27/blob/main/casseroleCodes-github-01.png)
+![](https://github.com/casserole27/casserole27/blob/main/casseroleCodes-banner-github.png)
 
-- 👀 I’m interested in learning programming, art, and effective living.
+<h2>About Me</h2>
+
+- 🌟 Design-driven: I ❤️ CSS
 - 🌱 I’m currently enrolled in Scrimba's Frontend Development Bootcamp.
-- 📫 How to reach me: casserolecodes@gmail.com | LinkedIn: https://www.linkedin.com/in/clewisdev
+- 🌠 Effective living nerd, curiosity enthusiast
+- ✨ casserolecodes@gmail.com | [Portfolio](clewisdev.com) | [LinkedIn](https://www.linkedin.com/in/clewisdev)
+
+<h2>My Skills</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,git,github,figma,ps,discord))](https://skillicons.dev)
+
 
 <!---
 casserole27/casserole27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
