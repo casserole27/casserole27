@@ -1,12 +1,11 @@
 <h1>Hello World! I’m Cassie ⭐</h1>
 
-![](https://github.com/casserole27/casserole27/blob/main/casseroleCodes-banner-github.png)
+![](https://github.com/casserole27/casserole27/blob/main/casseroleCodes-github-centered.png)
 
 <h2>About Me</h2>
 
 - 🌟 Design-driven: I ❤️ CSS
 - 🌱 I’m currently enrolled in Scrimba's Frontend Development Bootcamp.
-- 🌠 Effective living nerd, curiosity enthusiast
 - ✨ casserolecodes@gmail.com | [Portfolio](clewisdev.com) | [LinkedIn](https://www.linkedin.com/in/clewisdev)
 
 <h2>My Skills</h2>
