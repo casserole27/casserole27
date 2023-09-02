@@ -13,7 +13,7 @@
 
 <h2>My Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,git,github,figma,ps,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,vscode,git,github,figma,ps,discord)](https://skillicons.dev)
 
 
 <!---
