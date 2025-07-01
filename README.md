@@ -9,7 +9,10 @@
 - ☀️ pronouns: she/they
 - ✨ casserolecodes@gmail.com | [Portfolio](https://casserole27.github.io) | [LinkedIn](https://www.linkedin.com/in/clewisdev)
 
-<p>I'm a community-taught full-stack developer with a background in art and music who loves creating visually appealing experiences. I prioritize inclusive and user-friendly UI design, constantly finding ways to optimize processes. I'm driven by curiosity and creativity, always exploring new ideas and improving my skills. I seek meaningful work and projects where I can make a positive impact and build a sustainable future for my community and our world. Challenges fuel my growth, and I strive for excellence in all that I do. Openness and collaboration are important to me, fostering intentional communication and inclusivity.</p>
+<p>I'm a community-taught full-stack software engineer with two years of experience developing efficient data-driven solutions and visually
+engaging user interfaces. Skilled in systems thinking, process optimization, and clear communication, I thrive
+in collaborative environments. Motivated by curiosity and a desire for meaningful challenges, I continuously
+grow my technical abilities while seeking work that drives positive impact.</p>
 
 <h2>My Skills</h2>
 
