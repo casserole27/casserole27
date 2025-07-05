@@ -5,7 +5,7 @@
 <h2>About Me</h2>
 
 - 🌟 Design-driven: I ❤️ CSS
-- 🌱 I’m currently employed at <a href="https://conductor.solar/">Conductor Solar</a>.
+- 🌱 I’m currently searching for my next role in software.
 - ☀️ pronouns: she/they
 - ✨ casserolecodes@gmail.com | [Portfolio](https://casserole27.github.io) | [LinkedIn](https://www.linkedin.com/in/clewisdev)
 
