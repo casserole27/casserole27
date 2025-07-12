@@ -16,7 +16,7 @@ grow my technical abilities while seeking work that drives positive impact.</p>
 
 <h2>My Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,nodejs,postgres,nodejs,postman,jest,html,css,styledcomponents,vscode,git,github,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,nodejs,postgres,nextjs,postman,jest,html,css,sass,styledcomponents,vscode,git,github,figma,ps)](https://skillicons.dev)
 
 
 <!---
