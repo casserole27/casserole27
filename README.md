@@ -1,6 +1,7 @@
 <h1>Hello World! I’m Cassie ⭐</h1>
 
-![](https://github.com/casserole27/casserole27/blob/main/casserole-codes-banner.png)
+![](https://github.com/casserole27/casserole27/blob/main/
+casseroleCodes-banner-2025-basic.png)
 
 <h2>About Me</h2>
 
