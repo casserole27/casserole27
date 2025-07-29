@@ -1,6 +1,6 @@
 <h1>Hello World! I’m Cassie </h1>
 
-![](https://github.com/casserole27/casserole27/blob/main/casseroleCodes-banner-2025-basic.png)
+![](https://github.com/casserole27/casserole27/blob/main/casseroleCodes-banner-2025-basic(1).png)
 
 <h2>About Me</h2>
 
@@ -13,9 +13,14 @@ engaging user interfaces. Skilled in systems thinking, process optimization, and
 in collaborative environments. Motivated by curiosity and a desire for meaningful challenges, I continuously
 grow my technical abilities while seeking work that drives positive impact.</p>
 
-<h2>My Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,nodejs,postgres,postman,jest,html,css,sass,styledcomponents,vscode,git,github,figma,ps)](https://skillicons.dev)
+<h2>Production-level Skills</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,nodejs,postgres,postman,jest,html,css,sass,styledcomponents,vscode,git,github)](https://skillicons.dev)
+
+<h2>Other Skills - Personal Projects</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,vite,express,figma)](https://skillicons.dev)
 
 
 <!---
