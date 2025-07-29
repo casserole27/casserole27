@@ -1,13 +1,11 @@
-<h1>Hello World! I’m Cassie ⭐</h1>
+<h1>Hello World! I’m Cassie </h1>
 
-![](https://github.com/casserole27/casserole27/blob/main/
-casseroleCodes-banner-2025-basic.png)
+![](https://github.com/casserole27/casserole27/blob/main/casseroleCodes-banner-2025-basic.png)
 
 <h2>About Me</h2>
 
 - 🌟 Design-driven: I ❤️ CSS
 - 🌱 I’m currently searching for my next role in software.
-- ☀️ pronouns: she/they
 - ✨ casserolecodes@gmail.com | [Portfolio](https://casserole27.github.io) | [LinkedIn](https://www.linkedin.com/in/clewisdev)
 
 <p>I'm a community-taught full-stack software engineer with two years of experience developing efficient data-driven solutions and visually
@@ -17,7 +15,7 @@ grow my technical abilities while seeking work that drives positive impact.</p>
 
 <h2>My Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,nodejs,postgres,nextjs,postman,jest,html,css,sass,styledcomponents,vscode,git,github,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,nodejs,postgres,postman,jest,html,css,sass,styledcomponents,vscode,git,github,figma,ps)](https://skillicons.dev)
 
 
 <!---
