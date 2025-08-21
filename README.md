@@ -20,7 +20,7 @@ grow my technical abilities while seeking work that drives positive impact.</p>
 
 <h2>Other Skills - Personal Projects</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,vite,express,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,vite,vue,prisma,express,figma)](https://skillicons.dev)
 
 
 <!---
