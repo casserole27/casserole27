@@ -1,11 +1,11 @@
 <h1>Hello World! I’m Cassie </h1>
-
+ 
 ![](https://github.com/casserole27/casserole27/blob/main/casseroleCodes-banner-2025-basic(1).png)
 
 <h2>About Me</h2>
 
-- 🌟 Design-driven: I ❤️ CSS
-- 🌱 I’m currently searching for my next role in software.
+- ❤️ Mission-driven tech
+- 🎵 Software Support Engineer at Musicologie
 - ✨ casserolecodes@gmail.com | [Portfolio](https://casserole27.github.io) | [LinkedIn](https://www.linkedin.com/in/clewisdev)
 
 <p>I'm a community-taught full-stack software engineer with two years of experience developing efficient data-driven solutions and visually
@@ -16,11 +16,11 @@ grow my technical abilities while seeking work that drives positive impact.</p>
 
 <h2>Production-level Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,nodejs,postgres,postman,jest,html,css,sass,styledcomponents,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,nodejs,vue,laravel,postgres,postman,jest,html,css,sass,tailwind,styledcomponents,vscode,git,github)](https://skillicons.dev)
 
 <h2>Other Skills - Personal Projects</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,vite,vue,prisma,express,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,vite,prisma,express,figma)](https://skillicons.dev)
 
 
 <!---
