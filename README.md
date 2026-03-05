@@ -8,7 +8,7 @@
 - 🎵 Software Support Engineer at Musicologie
 - ✨ casserolecodes@gmail.com | [Portfolio](https://casserole27.github.io) | [LinkedIn](https://www.linkedin.com/in/clewisdev)
 
-<p>I'm a community-taught full-stack software engineer with two years of experience developing efficient data-driven solutions and visually
+<p>I'm a community-taught full-stack software engineer with 2+ years of experience developing efficient data-driven solutions and visually
 engaging user interfaces. Skilled in systems thinking, process optimization, and clear communication, I thrive
 in collaborative environments. Motivated by curiosity and a desire for meaningful challenges, I continuously
 grow my technical abilities while seeking work that drives positive impact.</p>
